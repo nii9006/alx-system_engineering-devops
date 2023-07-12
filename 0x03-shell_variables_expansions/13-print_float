@@ -1,0 +1,2 @@
+#!/bin/bas
+print "%2.f\n" $NUM
