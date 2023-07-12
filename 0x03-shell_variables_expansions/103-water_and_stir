@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(echo "$((2#$WATER + 16#$STIR))")
+echo "$((2#$WATER + 16#$STIR))")
